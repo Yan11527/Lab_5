@@ -1,0 +1,15 @@
+show
+info
+
+
+fffff
+insert
+
+filter_contains_name
+uuu
+execute_script f.txt
+
+filter_contains_name d
+
+history
+insert 12
