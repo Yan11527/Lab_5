@@ -1,0 +1,74 @@
+{
+  "1": {
+    "id": 1,
+    "name": "dffdfd",
+    "coordinates": {
+      "x": 43443,
+      "y": 323.0
+    },
+    "creationDate": {
+      "dateTime": {
+        "date": {
+          "year": 2022,
+          "month": 5,
+          "day": 28
+        },
+        "time": {
+          "hour": 15,
+          "minute": 7,
+          "second": 2,
+          "nano": 107000000
+        }
+      },
+      "offset": {
+        "totalSeconds": 10800
+      },
+      "zone": {
+        "id": "Europe/Moscow"
+      }
+    },
+    "studentsCount": 332,
+    "shouldBeExpelled": 323,
+    "transferredStudents": 33333,
+    "groupAdmin": {
+      "name": "tttt",
+      "nationality": "JAPAN",
+      "location": {
+        "x": 55,
+        "y": 444.0
+      }
+    }
+  },
+  "12": {
+    "id": 2,
+    "name": "ggggg",
+    "coordinates": {
+      "x": 5445,
+      "y": 344343.0
+    },
+    "creationDate": {
+      "dateTime": {
+        "date": {
+          "year": 2022,
+          "month": 5,
+          "day": 28
+        },
+        "time": {
+          "hour": 16,
+          "minute": 19,
+          "second": 13,
+          "nano": 459000000
+        }
+      },
+      "offset": {
+        "totalSeconds": 10800
+      },
+      "zone": {
+        "id": "Europe/Moscow"
+      }
+    },
+    "studentsCount": 444,
+    "shouldBeExpelled": 4,
+    "transferredStudents": 3434
+  }
+}
