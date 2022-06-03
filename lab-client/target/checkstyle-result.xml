@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.37">
+<file name="C:\Users\yanru\OneDrive\Рабочий стол\lab50\lab-client\src\main\java\com\yan\client\Client.java">
+</file>
+<file name="C:\Users\yanru\OneDrive\Рабочий стол\lab50\lab-client\src\main\java\com\yan\client\interpreter\ApplicationLoader.java">
+</file>
+<file name="C:\Users\yanru\OneDrive\Рабочий стол\lab50\lab-client\src\main\java\com\yan\client\interpreter\CommandInterpreter.java">
+</file>
+<file name="C:\Users\yanru\OneDrive\Рабочий стол\lab50\lab-client\src\main\java\com\yan\client\interpreter\Invoker.java">
+</file>
+</checkstyle>
