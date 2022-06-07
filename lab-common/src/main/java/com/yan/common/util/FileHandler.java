@@ -74,6 +74,7 @@ public class FileHandler {
             entry.getValue().setId(StudyGroup.getCount());
             map.put(entry.getKey(), entry.getValue());
         }
+        reader.close();
         return map;
     }
 
